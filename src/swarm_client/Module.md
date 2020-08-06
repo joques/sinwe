@@ -1,5 +1,5 @@
-Prints "Hello World!" with a main function.
+Prepare the gRPC client object
 [//]: # (above is the module summary)
 
 # Module Overview
-Prints "Hello World!" as the output to the command line using a main function.
+Stub for grpc client. It will be instantiated and invoked elsewhere
